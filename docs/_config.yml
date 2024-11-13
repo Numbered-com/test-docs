@@ -1,17 +1,29 @@
-theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
 title: GitHub Documentation Demo
 description: A demonstration of GitHub documentation setup
 baseurl: "/test-docs"
 
+# Theme settings
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+
 # Navigation
-header_pages:
-  - getting-started.md
-  - contributing.md
+aux_links:
+  "View on GitHub":
+    - "https://github.com/numbered-com/test-docs"
+
+# Enable navigation order
+nav_sort: case_sensitive
 
 # GitHub Pages specific settings
 plugins:
   - jekyll-remote-theme
 
 # Additional settings
-show_downloads: true
-google_analytics: # your GA tracking ID here (optional)
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
