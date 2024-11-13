@@ -1,5 +1,13 @@
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 title: GitHub Documentation Demo
 description: A demonstration of GitHub documentation setup
 show_downloads: false
 color_scheme: dark
+baseurl: "/test-docs"
+
+# Just the Docs specific settings
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "View on GitHub":
+    - "https://github.com/numbered-com/test-docs"
