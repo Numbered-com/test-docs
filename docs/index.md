@@ -1,13 +1,22 @@
 ---
-title: Getting started
+title: Advanced Topics
 layout: default
-description: A comprehensive guide for setting up GitHub documentation
-nav_order: 1
-has_children: false
+description: Advanced documentation features and customization
+nav_order: 4
+has_children: true
+permalink: /advanced
 ---
 
-# Project Documentation
+# Advanced Topics
 
-Welcome to the project documentation! This repository demonstrates how to set up GitHub documentation effectively.
+This section covers advanced features and customization options for your documentation.
 
-[... rest of your existing README.md content ...]
+## Available Topics
+
+- [Customization](advanced/customization) - Theme and layout customization
+- [Search](advanced/search) - Advanced search configuration
+- [Navigation](advanced/navigation) - Complex navigation structures
+
+## Overview
+
+Learn how to extend and customize your documentation beyond the basics.
