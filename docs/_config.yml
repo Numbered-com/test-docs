@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: GitHub Documentation Demo
+description: A demonstration of GitHub documentation setup
+show_downloads: true
+google_analytics:
