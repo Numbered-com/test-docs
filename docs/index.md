@@ -1,22 +1,25 @@
 ---
-title: Advanced Topics
+title: Documentation
 layout: default
-description: Advanced documentation features and customization
-nav_order: 4
-has_children: true
-permalink: /advanced
+description: Main documentation hub
+nav_order: 1
+permalink: /
 ---
 
-# Advanced Topics
+# Documentation
 
-This section covers advanced features and customization options for your documentation.
+Welcome to our documentation! Here you'll find everything you need to get started.
 
-## Available Topics
+## Quick Navigation
 
-- [Customization](advanced/customization) - Theme and layout customization
-- [Search](advanced/search) - Advanced search configuration
-- [Navigation](advanced/navigation) - Complex navigation structures
+### Core Documentation
+- [Getting Started](getting-started) - First steps and basic setup
+- [Contributing Guidelines](contributing) - How to contribute to this project
 
-## Overview
+### Advanced Topics
+- [Advanced Features](advanced) - Overview of advanced features
+  - [Customization](advanced/customization) - Theme and layout customization
+  - [Search](advanced/search) - Search configuration and features
+  - [Navigation](advanced/navigation) - Navigation structure setup
 
-Learn how to extend and customize your documentation beyond the basics.
+## Documentation Structure
