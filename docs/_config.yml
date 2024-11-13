@@ -23,5 +23,14 @@ search:
   preview_words_after: 10
   tokenizer_separator: /[\s/]+/
 
-# Remove footer
+# Remove footer and all related elements
 footer_content: ""
+back_to_top: false
+back_to_top_text: ""
+last_edit_timestamp: false
+last_edit_time_format: ""
+gh_edit_link: false
+gh_edit_link_text: ""
+gh_edit_repository: ""
+gh_edit_branch: ""
+gh_edit_view_mode: ""
