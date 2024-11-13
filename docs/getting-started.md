@@ -1,3 +1,11 @@
+---
+title: Getting Started
+layout: default
+description: Initial setup and configuration guide
+nav_order: 2
+has_children: false
+---
+
 # Getting Started
 
 ## Prerequisites
@@ -16,3 +24,5 @@
    - Click Save
 
 ## File Structure
+
+### Documentation Layout
