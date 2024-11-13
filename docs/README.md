@@ -23,7 +23,7 @@ This documentation follows these principles:
 1. [Getting Started](getting-started.md)
    - Prerequisites
    - Basic setup
-   - File structure
+   - File structureyour existing README.md conte
 
 2. [Configuration](configuration.md)
    - Theme settings
